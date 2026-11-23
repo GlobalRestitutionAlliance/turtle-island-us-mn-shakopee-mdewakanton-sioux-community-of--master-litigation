@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=MN+SHAKOPEE+MDEWAKANTON+SIOUX+COMMUNITY+OF+",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=MN+SHAKOPEE+MDEWAKANTON+SIOUX+COMMUNITY+OF+",
+  "title": "Federal Register - MN SHAKOPEE MDEWAKANTON SIOUX COMMUNITY OF ",
+  "fetched_at": "2026-11-23T17:44:02.239343Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 213962,
+  "sha256": "e1421a0748cda2fcafbc9140210b47ceb44deda1daa750d98b9fadd1607b8348",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
